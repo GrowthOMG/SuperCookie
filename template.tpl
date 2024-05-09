@@ -1,4 +1,4 @@
-// Copyright 2019 Google LLC
+// Copyright 2024 OMD
 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -12,12 +12,6 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
 
 
 ___INFO___
@@ -386,15 +380,6 @@ scenarios:
     // Verify that the tag finished successfully.
     assertApi('gtmOnSuccess').wasCalled();
 setup: data.url = 'https://www.pucmm.edu.do/postgrado/Paginas/solicitud-informacion.aspx?utm_source=Source+Prueba&utm_medium=Medium+Prueba&utm_campaign=Campaign+N+Prueba&utm_id=Campaign+Prueba';
-
-
-___NOTES___
-
-Created on 5/6/2024, 10:39:37 AM
-
-
-
-
 
 ___NOTES___
 
