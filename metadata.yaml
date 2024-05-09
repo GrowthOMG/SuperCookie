@@ -15,5 +15,5 @@
 homepage: "https://www.omd.com/contact/dominican-republic-2/"
 documentation: "https://drive.google.com/file/d/1-W686Rkmf_ODZBQLFy53w3wFk_W83qHa/view?usp=sharing"
 versions:
-  - sha: 8df7af2cb2c6eb7e6fc7c82fe9f9803ef0f4176b
+  - sha: 5b29c320922d8d8fa50758ced036ef890e30a7cc
     changeNotes: Initial Release
