@@ -1,3 +1,5 @@
+___TERMS_OF_SERVICE___
+
 // Copyright 2024 OMD Dominicana
 
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -12,7 +14,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-___TERMS_OF_SERVICE___
+
 
 //By creating or modifying this file you agree to Google Tag Manager's Community
 //Template Gallery Developer Terms of Service available at
